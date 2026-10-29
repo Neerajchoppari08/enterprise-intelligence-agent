@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+psycopg[binary]
+pgvector
+numpy
+sentence-transformers
+rank-bm25
+langgraph
+litellm
+pydantic
+pytest
+python-dotenv

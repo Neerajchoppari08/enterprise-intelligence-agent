@@ -1,0 +1,7 @@
+{"question": "How many days of annual leave do employees get?", "gold_docs": ["leave_policy.md"], "role": "employee"}
+{"question": "How many unused leave days can be carried forward?", "gold_docs": ["leave_policy.md"], "role": "employee"}
+{"question": "Is multi-factor authentication mandatory?", "gold_docs": ["it_security.md"], "role": "employee"}
+{"question": "How quickly must a lost laptop be reported?", "gold_docs": ["it_security.md"], "role": "employee"}
+{"question": "What is the daily meal limit on domestic business travel?", "gold_docs": ["expense_policy.md"], "role": "employee"}
+{"question": "Within how many days must expense claims be submitted?", "gold_docs": ["expense_policy.md"], "role": "employee"}
+{"question": "What is the salary band for L3?", "gold_docs": ["salary_bands.md"], "role": "finance"}
